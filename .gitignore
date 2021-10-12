@@ -1,0 +1,12 @@
+/SVFI.ini
+/log/
+/ncnn/
+/release/
+/test/
+/train_log/
+/Configs/
+/Auxiliary/
+/steamworks/
+/SVFI 3.6/QCandyUi/.idea/
+/SVFI 3.6/Utils/log/
+*.pyc
